@@ -1,11 +1,10 @@
 #include <stdio.h>
 
-/* 
- * A c program that prints:
+/**
+ * main - program prints with library routine function puts
  *
- * and ends with a new line
+ * Return: Always exit with a success status 0
  */
-
 int main(void)
 {
 
