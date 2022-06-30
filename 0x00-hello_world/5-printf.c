@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - sends output to stdout with the printf routine function
+ * main - print string with printf
  *
- * return: exit with a success status 0.
+ * Return: Always 0
  */
 int main(void)
 {
