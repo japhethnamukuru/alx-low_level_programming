@@ -1,2 +1,2 @@
-###Arguments to main
-**argc and argv**
+### Arguments to main
+**argc** and **argv**
