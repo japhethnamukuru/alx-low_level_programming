@@ -9,4 +9,4 @@
 
 `argv`
 
-**argv** stands for `argument vector`. A `vector` is a 1D array, thus `argv` is a 1D array of `strings`. Each of the `strings` is an `argument` passed to the program.
+**argv** stands for `argument vector`. A `vector` is a 1D array, thus `argv` is a 1D array of `strings`, each of which is an `argument` passed to the program.
