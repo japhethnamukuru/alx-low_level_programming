@@ -10,3 +10,5 @@
 `argv`
 
 **argv** stands for `argument vector`. A `vector` is a 1D array, thus `argv` is a 1D array of `strings`, each of which is an `argument` passed to the program.
+
+[0-whatsmyname](0-whatsmyname.c) returns the name of the program as the first argument to the program.
