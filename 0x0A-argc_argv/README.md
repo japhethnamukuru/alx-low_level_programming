@@ -1,3 +1,3 @@
 #!/bin/bash
-###arguments to main###
+###Arguments to main
 **argc and argv**
