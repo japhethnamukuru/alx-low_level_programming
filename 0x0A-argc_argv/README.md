@@ -1,4 +1,5 @@
 ### Arguments to main
+---
 
 **argc** and **argv**
 
@@ -24,3 +25,30 @@
 - [x] [4-add.c](4-add.c) - Computes the sume of positive integers passed as arguments and returns an error if the argumnts passed are negative.
 
 - [x] [100-change.c](100-change.c) - Computes and prints the minimum number of coins as changes for a given amount of money.
+---
+
+**How to compile with unused variables**
+If `argc` and `argv` argumnents are passed to `main` and are unused throughout the program, the `gcc` compiler will the `unused` variable warning.
+Instead, the `__attribute__((unused))`` or `void` are declared before the `argument` i.e putting it in front of the parameter during declaration as shown.
+
+```
+#include <stdio.h>
+
+/**
+ *main - illustrates the unused variable instance
+ *@argc: argument count
+ *@argv: argumen vector, an array of strings
+ *Return: Always 0
+ */
+
+int main(int argc, char *argv[] __attribute__((unused)))
+{
+	__attribute__((unused)) int i;
+
+	printf("Argument count is: %d\n", argc);
+	return (0);
+}
+```
+:tada:
+
+
