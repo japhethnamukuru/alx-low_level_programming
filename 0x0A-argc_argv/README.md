@@ -29,7 +29,7 @@
 
 **How to compile with unused variables**
 
-If `argc` and `argv` argumnents are passed to `main` and are unused throughout the program, the `gcc` compiler will the `unused` variable warning.
+If `argc` and `argv` argumnents are passed to `main` and are unused throughout the program, the `gcc` compiler will throw the `unused` variable warning.
 Instead, the `__attribute__((unused))` or `void` are declared before the `argument` i.e putting it in front of the parameter during declaration as shown.
 
 ```
