@@ -1,10 +1,11 @@
 #include <stdio.h>
+
 /**
  * main - program enrty
  * 
- * Description
+ * Description: Print complex number system
  * 
- * Return: 0
+ * Return: Exit with 0
  */
 int main(void)
 {
