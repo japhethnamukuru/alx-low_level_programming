@@ -21,4 +21,6 @@ If access is granted, the host `OS` reserves the requested memory and `malloc`  
 > `Valgrind` - a utility used for validating memory allocation and analyze memory leaks is useful for such tasks.
 
 ---
-- [x] [o-create_array.c](0-create_array.c) - Creates and dynamically assigns memory to an array from given characters
+- [x] [o-create_array.c](0-create_array.c) - Creates and dynamically assigns memory to an array from given characters.
+
+- [x] [1-strdup.c](1-strdup.c) - Returns a pointer to a duplicated pointer.
