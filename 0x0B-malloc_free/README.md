@@ -24,3 +24,5 @@ If access is granted, the host `OS` reserves the requested memory and `malloc`  
 - [x] [o-create_array.c](0-create_array.c) - Creates and dynamically assigns memory to an array from given characters.
 
 - [x] [1-strdup.c](1-strdup.c) - Returns a pointer to a duplicated pointer.
+
+- [x] [2-str_concat.c](2-str_concat.c) - concatenates a strings.
