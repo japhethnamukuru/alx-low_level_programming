@@ -35,4 +35,6 @@ If access is granted, the host `OS` reserves the requested memory and `malloc`  
 
 - [x] [101-strtow.c](101-strtow.c) - Splits a string into words.
 
+---
+
 Tada! :fire: :smile: :tada:
