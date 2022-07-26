@@ -26,3 +26,7 @@ If access is granted, the host `OS` reserves the requested memory and `malloc`  
 - [x] [1-strdup.c](1-strdup.c) - Returns a pointer to a duplicated pointer.
 
 - [x] [2-str_concat.c](2-str_concat.c) - concatenates a strings.
+
+- [x] [3-alloc_grid.c](3-alloc_grid.c) - Returns a pointer to a 2d array of integers
+
+- [x] [4-free_grid.c] (4-free_grid.c) - Frees memory previously allocated to 2D array in `3-alloc_grid.c`.
