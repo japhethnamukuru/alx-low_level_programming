@@ -30,3 +30,9 @@ If access is granted, the host `OS` reserves the requested memory and `malloc`  
 - [x] [3-alloc_grid.c](3-alloc_grid.c) - Returns a pointer to a 2d array of integers
 
 - [x] [4-free_grid.c] (4-free_grid.c) - Frees memory previously allocated to 2D array in `3-alloc_grid.c`.
+
+- [x] [100-argstostr.c](argstostr.c) - concatenates alla program arguments.
+
+- [x] [101-strtow.c](101-strtow.c) - Splits a string into words.
+
+Tada! :fire: :smile: :tada:
