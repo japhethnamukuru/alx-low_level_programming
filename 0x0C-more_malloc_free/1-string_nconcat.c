@@ -19,12 +19,11 @@ unsigned int _strlen(char *str)
 }
 
 /**
- * string_nconcaat - concatenates two strings
+ * string_nconcat - concatenates two strings
  *
  * @s1: string 1
  *
  * @s2: string 2
- * 
  * @n: bytes of s2
  *
  * Return: concatenated string
@@ -50,7 +49,7 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 		return (NULL);
 	for (i = 0; i < len1; i++)
 		space[i] = s1[i];
-	for (j = 0; s2[j] != '\0' &&j != n; j++, i++)
+	for (j = 0; s2[j] != '\0' && j != n; j++, i++)
 		space[i] = s2[j];
 	space[i] = '\0';
 
