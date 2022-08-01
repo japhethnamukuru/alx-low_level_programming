@@ -59,6 +59,7 @@ int main(void)
 
 ---
 ### Task List
+
 - [x] [dog.h](dog.h) - Declares a structure `dog` that stores the dog attributes `name`, `age` and `owner`.
 
 - [x] [1-init_dog.c](1-init_dog.c) - Initializes a structure dog with its member values.
@@ -66,3 +67,7 @@ int main(void)
 - [x] [2-print_dog.c](2-print_dog.c) - prints the **dog structure** `struct dog`.
 
 - [x] [4-new_dog.c](4-new_dog.c) - creates a new instance of the **dog structure** `struct dog`.
+
+- [x] [5-free_dog.c](5-free_dog.c) - frees the `dog` structure.
+
+Tada! :tada: :fire: :smile:
