@@ -68,3 +68,7 @@ The above defines a macro `BUFFER_SIZE` as an abbreviation for `1024`. If the ab
 - [x] [3-function_like_macro.h](3-functio_like_macro.h) - Computes absolute value of a number x
 
 - [x] [4-sum.h](4-sum.h) - function like macro that computes the `sum` of two `integers`.
+
+---
+
+Tada! :tada: :smile: :fire:
