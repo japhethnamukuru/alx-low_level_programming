@@ -56,3 +56,7 @@ int main(void)
 	
 	return (0);
 }
+
+---
+### Task List
+- [x] [dog.h](dog.h) - Declares a structure `dog` that stores the dog attributes `name`, `age` and `owner`.
