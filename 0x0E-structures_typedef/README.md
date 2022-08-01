@@ -1,6 +1,7 @@
 ## 0x0E. C - Structcture, typedef
+**structure**
 
-`structure` is a used defined data type in C that allaows the programmaer to combine data items of different kinds.
+`struct` is a used defined data type in C that allaows the programmaer to combine data items of different kinds.
 
 ### Declared as so...
 
@@ -21,6 +22,8 @@ int main(void)
 }
 ```
 ---
+**typedef**
+
 `typedef` is a keyword used to give a type a new name. Think of the new name as an alias to the type it is given to.
 i.e After the below type definition the identifier `byte` can be used as an abbreviatio for the type `unsigned char`"
 
