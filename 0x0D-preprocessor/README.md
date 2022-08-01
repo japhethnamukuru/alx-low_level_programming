@@ -42,19 +42,19 @@ The above defines a macro `BUFFER_SIZE` as an abbreviation for `1024`. If the ab
 
 **sample macros**
 
-- [x] [#if]
+- [ ] [#if]
 
-- [x] [#ifdef]
+- [ ] [#ifdef]
 
-- [x] [#ifndef]
+- [ ] [#ifndef]
 
-- [x] [#elif]
+- [ ] [#elif]
 
-- [x] [#undef]
+- [ ] [#undef]
 
-- [x] [#undef]
+- [ ] [#undef]
 
-- [x] [#...]
+- [ ] [#...]
 
 ---
 
