@@ -62,3 +62,5 @@ int main(void)
 - [x] [dog.h](dog.h) - Declares a structure `dog` that stores the dog attributes `name`, `age` and `owner`.
 
 - [x] [1-init_dog.c](1-init_dog.c) - Initializes a structure dog with its member values.
+
+- [x] [2-print_dog.c](2-print_dog.c) - prints the **dog structure** `struct dog`.
