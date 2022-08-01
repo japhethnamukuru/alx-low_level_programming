@@ -20,6 +20,7 @@ The Assembly code is then fed into the combiler to generate the `object` code. A
 **Linking**
 
 This is the final stage where the `object code` from the assembleris then linked with necessary libraries and files to generate an `executable` file.
+
 ---
 
 ### Macros
