@@ -28,6 +28,7 @@ int main(void)
 i.e After the below type definition the identifier `byte` can be used as an abbreviatio for the type `unsigned char`"
 
 ---
+
 ```
 typedef unsigned char byte;
 
@@ -40,7 +41,8 @@ int main(void)
 }
 ```
 ---
-`typedef` can also be used with structures to define new data types and used to define structure varaibles diretly as below
+`typedef` can also be used with structures to define new data types and used to define structure varaibles diretly as below.
+
 ```
 typedef struct User
 {
@@ -56,6 +58,7 @@ int main(void)
 	
 	return (0);
 }
+```
 
 ---
 ### Task List
