@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * print_pcodes - prints opcode of the program
+ * print_opcodes - prints opcode of the program
  *
  * @a: address of main function
  *
